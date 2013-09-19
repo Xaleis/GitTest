@@ -1,6 +1,6 @@
 Plop
 
-salut
+Salut
 
 ça va ?
 #
